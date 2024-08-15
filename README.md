@@ -1,5 +1,8 @@
 # AudioPlayer
-![UML](UMLAudioPlayer.jpg "UML")
+<p align="center">
+  <img src="UMLAudioPlayer.jpg" alt="UML" title="UML">
+</p>
+
 
 # AudioPlayer
 
